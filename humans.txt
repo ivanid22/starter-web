@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 mod
+another mod
 # THANKS
 
     <name>
